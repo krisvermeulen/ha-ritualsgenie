@@ -1,0 +1,6 @@
+{
+    "name": "Rituals Genie",
+    "domains": ["binary_sensor", "sensor"],
+    "render_readme": true,
+    "homeassistant": "0.110.0"
+}
